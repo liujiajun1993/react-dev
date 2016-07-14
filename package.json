@@ -1,0 +1,48 @@
+{
+  "name": "react-auto",
+  "version": "0.0.1",
+  "description": "react gulp npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liujiajun1993/react-dev.git"
+  },
+  "author": "liujiajun1993",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liujiajun1993/react-dev/issues"
+  },
+  "homepage": "https://github.com/liujiajun1993/react-dev#readme",
+  "dependencies": {
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-beautify": "^2.0.0",
+    "gulp-connect": "^4.1.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-filter": "^4.0.0",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-if": "^2.0.1",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-less": "^3.1.0",
+    "gulp-rev": "^7.1.0",
+    "gulp-rev-replace": "^0.4.3",
+    "gulp-uglify": "^1.5.4",
+    "gulp-useref": "^3.1.0",
+    "gulp-watch": "^4.3.8",
+    "less": "^2.7.1",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-tools": "^0.13.3",
+    "run-sequence": "^1.2.2",
+    "vinyl-named": "^1.1.0",
+    "webpack": "^1.13.1",
+    "webpack-stream": "^3.2.0"
+  }
+}
